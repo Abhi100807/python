@@ -1,0 +1,5 @@
+x = eval(input("enter the list: "))
+x.sort()
+print(f"the ascending order is: {x}")
+x.sort(reverse=True)
+print(f"the descending order is: {x}")
