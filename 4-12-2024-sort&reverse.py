@@ -1,0 +1,6 @@
+x = eval(input("enter the list: "))
+y = eval(input("enter the list2: "))
+y.sort()
+x.reverse()
+print(x)
+print(y)
