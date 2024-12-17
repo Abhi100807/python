@@ -1,0 +1,6 @@
+x = set()
+x.add(int(input("1st term")))
+x.add(int(input("2nd term")))
+x.add(int(input("3rd term")))
+print(x)
+print(type(x))
